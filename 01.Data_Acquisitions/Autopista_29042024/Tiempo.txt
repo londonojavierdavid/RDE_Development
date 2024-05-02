@@ -1,0 +1,2 @@
+Datos OBD grabados con python a una frecuencia de 2Hz
+Tiempo de grabación. 18 min

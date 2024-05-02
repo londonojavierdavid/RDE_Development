@@ -1,0 +1,5 @@
+RDE_1_3008_prueba JDLE-13
+
+Tramo urbano con mayor velocidad promedio
+
+30:26 minutos
